@@ -1,7 +1,6 @@
-console.log("Happy hacking :)");
+// console.log("Happy hacking :)");
 
 const url_api = "https://pokeapi.co/api/v2/pokemon/?offset=0&limit=151";
-
 const appNode = document.querySelector("#app");
 
 async function fetchData() {
