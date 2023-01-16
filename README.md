@@ -10,4 +10,4 @@ This site is a simple html app to practice my ability at consuming API with vani
 ## App deploy
 [site url](https://angelostd.github.io/dom_js-pokemon_api/)
 
-![console-output](https://i.imgur.com/UBe2X2e.png)
+![console-output](https://i.imgur.com/PpWM3Y4.png)
